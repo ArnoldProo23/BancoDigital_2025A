@@ -77,4 +77,4 @@ git push origin main
 
 Proyecto desarrollado aplicando conceptos de Big Data, Python y bases de datos NoSQL.
 Arnold Michell Ocas Ruiz
-Fecha: 14.10.2025
+Fecha: 16.10.2025
